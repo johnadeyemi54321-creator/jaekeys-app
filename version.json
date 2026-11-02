@@ -1,6 +1,6 @@
 {
-  "version": "3.2",
-  "notes": "Live scenes keep moving while you type, word suggestions in every box, and no gap when switching to symbols.",
+  "version": "3.3",
+  "notes": "A cleaner, roomier app layout and a fresh first-time welcome.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
