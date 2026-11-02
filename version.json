@@ -1,0 +1,139 @@
+{
+  "version": "2.2",
+  "notes": "All payment options, including crypto, now show at once in Support Jaesoft.",
+  "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
+  "force": false,
+  "links": {
+    "brand": "https://jaesoftgraphics.netlify.app",
+    "brandLabel": "Visit Jaesoft",
+    "support": "",
+    "review": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest",
+    "download": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest",
+    "tenorKey": "",
+    "pay": {
+      "accounts": [
+        {
+          "id": "ngn",
+          "tab": "🇳🇬 Naira",
+          "rows": [
+            [
+              "Bank",
+              "UBA"
+            ],
+            [
+              "Account number",
+              "2367755995"
+            ],
+            [
+              "Account name",
+              "Kehinde John Adeyemi"
+            ]
+          ]
+        },
+        {
+          "id": "usd",
+          "tab": "🇺🇸 USD",
+          "rows": [
+            [
+              "Account holder",
+              "Kehinde John Adeyemi"
+            ],
+            [
+              "Account number",
+              "215974028494"
+            ],
+            [
+              "Wire routing",
+              "101019644"
+            ],
+            [
+              "ACH routing",
+              "101019644"
+            ],
+            [
+              "Account type",
+              "Checking"
+            ],
+            [
+              "Bank",
+              "Lead"
+            ],
+            [
+              "Bank address",
+              "1801 Main St., Kansas City, MO 64108"
+            ]
+          ]
+        },
+        {
+          "id": "gbp",
+          "tab": "🇬🇧 GBP",
+          "rows": [
+            [
+              "Account holder",
+              "Kehinde John Adeyemi"
+            ],
+            [
+              "Account number",
+              "41648468"
+            ],
+            [
+              "Sort code",
+              "04-13-07"
+            ],
+            [
+              "Bank",
+              "Clear Junction Limited"
+            ],
+            [
+              "Bank address",
+              "4th Floor Imperial House, 15 Kingsway, London, United Kingdom, WC2B 6UN"
+            ]
+          ]
+        },
+        {
+          "id": "eur",
+          "tab": "🇪🇺 EUR",
+          "rows": [
+            [
+              "Account holder",
+              "Kehinde John Adeyemi"
+            ],
+            [
+              "IBAN",
+              "GB29CLJU04130741648468"
+            ],
+            [
+              "SWIFT code",
+              "CLJUGB21XXX"
+            ],
+            [
+              "Bank",
+              "Clear Junction Limited"
+            ],
+            [
+              "Bank address",
+              "4th Floor Imperial House, 15 Kingsway, London, United Kingdom, WC2B 6UN"
+            ]
+          ]
+        },
+        {
+          "id": "crypto",
+          "tab": "🪙 Crypto",
+          "note": "Send only on the network shown. Other networks will lose the money.",
+          "rows": [
+            [
+              "USDT · BEP20",
+              "0x7A3A39eA3780Ea04AA858F2B374aB9fae7712637"
+            ],
+            [
+              "USDC · ERC20",
+              "0x8ce485609C15B66fbdcBf527aea8d1Ce42Ebc9F3"
+            ]
+          ]
+        }
+      ],
+      "link": ""
+    },
+    "whatsapp": "2349112501143"
+  }
+}
