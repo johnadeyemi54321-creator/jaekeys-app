@@ -1,6 +1,6 @@
 {
-  "version": "3.0",
-  "notes": "A clearer message box in Message John.",
+  "version": "3.1",
+  "notes": "Review emails now include a link to the designed review card.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,6 +137,6 @@
     "whatsapp": "2349112501143",
     "formKey": "2da2a353-a9b1-4ed7-9626-f9b4a39272ab",
     "instagram": "https://www.instagram.com/jaekeys.app",
-    "imgbbKey": ""
+    "imgbbKey": "d9d60bd83d553812d72cb81b726df0dd"
   }
 }
