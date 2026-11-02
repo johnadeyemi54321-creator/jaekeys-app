@@ -1,6 +1,6 @@
 {
-  "version": "2.2",
-  "notes": "All payment options, including crypto, now show at once in Support Jaesoft.",
+  "version": "2.7",
+  "notes": "The keyboard now opens on the letters every time you tap a message box.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -8,7 +8,7 @@
     "brandLabel": "Visit Jaesoft",
     "support": "",
     "review": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest",
-    "download": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest",
+    "download": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
     "tenorKey": "",
     "pay": {
       "accounts": [
@@ -134,6 +134,7 @@
       ],
       "link": ""
     },
-    "whatsapp": "2349112501143"
+    "whatsapp": "2349112501143",
+    "formKey": "2da2a353-a9b1-4ed7-9626-f9b4a39272ab"
   }
 }
