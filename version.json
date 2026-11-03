@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "New: search Google right from the keyboard, Smart tools, Translate, smart clipboard and a smarter keyboard.",
+  "notes": "Floating keyboard in every app, word suggestions in Quick search, and a soft soda-pop welcome sound.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -138,5 +138,6 @@
     "formKey": "2da2a353-a9b1-4ed7-9626-f9b4a39272ab",
     "instagram": "https://www.instagram.com/jaekeys.app",
     "imgbbKey": "d9d60bd83d553812d72cb81b726df0dd"
-  }
+  },
+  "build": 36
 }
