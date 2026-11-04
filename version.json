@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Floating keyboard in every app, word suggestions in Quick search, and a soft soda-pop welcome sound.",
+  "notes": "Templates have their own place, Style is for your own tweaks (3D depth, letter and key colours, capital letters), and a cleaner light keyboard.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -139,5 +139,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "imgbbKey": "d9d60bd83d553812d72cb81b726df0dd"
   },
-  "build": 38
+  "build": 41
 }
