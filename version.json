@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Templates have their own place, Style is for your own tweaks (3D depth, letter and key colours, capital letters), and a cleaner light keyboard.",
+  "notes": "GIFs are live! Search and send GIFs right from the keyboard. Works on Android 7 and newer.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,7 +137,8 @@
     "whatsapp": "2349112501143",
     "formKey": "2da2a353-a9b1-4ed7-9626-f9b4a39272ab",
     "instagram": "https://www.instagram.com/jaekeys.app",
-    "imgbbKey": "d9d60bd83d553812d72cb81b726df0dd"
+    "imgbbKey": "d9d60bd83d553812d72cb81b726df0dd",
+    "giphyKey": "5T5lJqewhIupi1jbUuHTguaJy7YIarnb"
   },
-  "build": 41
+  "build": 43
 }
