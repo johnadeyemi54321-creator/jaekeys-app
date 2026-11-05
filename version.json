@@ -1,6 +1,6 @@
 {
-  "version": "3.5.1",
-  "notes": "Stability update: Writing Assistant fields now accept JaeKeys keyboard input, and voice typing has a safer online fallback if the offline engine cannot initialise.",
+  "version": "3.5",
+  "notes": "GIFs are live! Search and send GIFs right from the keyboard. Works on Android 7 and newer.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
