@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Rewrite is now much faster and more reliable.",
+  "notes": "New: AI sentence check fixes slips like “meat” → “meet” when you finish a sentence, plus GIF safety and an Online features switch.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 51
+  "build": 54
 }
