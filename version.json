@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "New: Rewrite your messages (Professional, Friendly, Chill, Naija Pidgin and more) and Fix grammar, undo or redo a paste, screenshots send straight into chats, and smarter autocorrect.",
+  "notes": "Rewrite is now much faster and more reliable.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 50
+  "build": 51
 }
