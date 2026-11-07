@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "GIFs are live! Search and send GIFs right from the keyboard. Works on Android 7 and newer.",
+  "notes": "New: Rewrite your messages (Professional, Friendly, Chill, Naija Pidgin and more) and Fix grammar, undo or redo a paste, screenshots send straight into chats, and smarter autocorrect.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -9,7 +9,6 @@
     "support": "",
     "review": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest",
     "download": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
-    "tenorKey": "",
     "pay": {
       "accounts": [
         {
@@ -135,10 +134,8 @@
       "link": ""
     },
     "whatsapp": "2349112501143",
-    "formKey": "2da2a353-a9b1-4ed7-9626-f9b4a39272ab",
     "instagram": "https://www.instagram.com/jaekeys.app",
-    "imgbbKey": "d9d60bd83d553812d72cb81b726df0dd",
-    "giphyKey": "5T5lJqewhIupi1jbUuHTguaJy7YIarnb"
+    "aiModel": "gemini-2.5-flash"
   },
-  "build": 43
+  "build": 45
 }
