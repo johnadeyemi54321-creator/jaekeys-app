@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "New: AI sentence check fixes slips like “meat” → “meet” when you finish a sentence, plus GIF safety and an Online features switch.",
+  "notes": "Smoother and steadier: fixes freezing and the blank keyboard, and the greeting shows properly.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -131,11 +131,11 @@
           ]
         }
       ],
-      "link": ""
+      "link": "https://paystack.shop/pay/jaekeys"
     },
     "whatsapp": "2349112501143",
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 54
+  "build": 57
 }
