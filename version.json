@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Smarter: fixes mistakes while you type, knows more names and words, and always opens on the letters.",
+  "notes": "A cleaner, more premium look across the intro, Settings and pop-ups.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 59
+  "build": 61
 }
