@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Build 89: the welcome illustration is larger and raised more noticeably; onboarding feature slides have clearer labels, calmer visual hierarchy, more consistent spacing, and improved focus/reduced-motion handling.",
+  "notes": "Build 90: restored the exact three-line welcome headline, refined the raised head illustration at a slightly smaller size, balanced spacing across onboarding feature slides, and removed the extra circular halo from the Glow slide.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
