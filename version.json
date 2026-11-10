@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "New installs now start with the Obsidian keyboard look.",
+  "notes": "Smoother opening and switching.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 94
+  "build": 96
 }
