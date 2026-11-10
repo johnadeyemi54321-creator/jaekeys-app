@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Faster keyboard opening and smoother first focus.",
+  "notes": "A cleaner welcome screen, a slightly larger keyboard-brain illustration, and a more reliable update check.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 86
+  "build": 87
 }
