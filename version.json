@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Smoother opening and switching.",
+  "notes": "No more flash of the main screen when opening the app or its settings.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 96
+  "build": 97
 }
