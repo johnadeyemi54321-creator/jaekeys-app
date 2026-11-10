@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "A cleaner welcome screen, a slightly larger keyboard-brain illustration, and a more reliable update check.",
+  "notes": "A larger, slightly raised welcome illustration and faster spoken welcome through early text-to-speech initialisation.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 87
+  "build": 88
 }
