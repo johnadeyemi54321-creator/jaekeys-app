@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Number row on the keyboard, and small design fixes.",
+  "notes": "New: Your typing. See your words, typos fixed, day streak and badges.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 105
+  "build": 106
 }
