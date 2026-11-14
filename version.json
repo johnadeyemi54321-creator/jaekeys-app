@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "New: Your typing. See your words, typos fixed, day streak and badges.",
+  "notes": "New: Settings button on the home screen, 2,700 more words (British spellings, today's words), possessives like yesterday's, and a smoother language search.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 106
+  "build": 107
 }
