@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Calmer opening animation, proper dark mode in pop-ups, and an editable template name.",
+  "notes": "Number row on the keyboard, and small design fixes.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 103
+  "build": 105
 }
