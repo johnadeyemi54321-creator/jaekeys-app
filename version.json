@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Your template now stays put after replaying the intro. Smarter corrections that read the sentence. Every template checked and tidied.",
+  "notes": "Free unlock codes now work once, on one phone.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -135,7 +135,13 @@
     },
     "whatsapp": "2349112501143",
     "instagram": "https://www.instagram.com/jaekeys.app",
-    "aiModel": "gemini-2.5-flash"
+    "aiModel": "gemini-2.5-flash",
+    "premium": {
+      "on": true,
+      "trialDays": 7,
+      "api": "https://jaekeys-premium.netlify.app/api",
+      "note": ""
+    }
   },
-  "build": 119
+  "build": 124
 }
