@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Refreshed welcome slides, the rainbow ripple on every launch, a Settings button on the home screen and 2,700 more words.",
+  "notes": "God, Lord and Holy Spirit get their capitals. Add your own # shortcuts. Smarter next-word suggestions and more names and words.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -137,5 +137,5 @@
     "instagram": "https://www.instagram.com/jaekeys.app",
     "aiModel": "gemini-2.5-flash"
   },
-  "build": 115
+  "build": 117
 }
