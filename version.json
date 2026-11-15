@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Free unlock codes now work once, on one phone.",
+  "notes": "Free unlock codes work once, on one phone. Message John on WhatsApp to get yours.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -140,8 +140,9 @@
       "on": true,
       "trialDays": 7,
       "api": "https://jaekeys-premium.netlify.app/api",
-      "note": ""
+      "note": "",
+      "wa": ""
     }
   },
-  "build": 124
+  "build": 125
 }
