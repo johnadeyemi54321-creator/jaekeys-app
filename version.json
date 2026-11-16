@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "SmartBar and AI colour are now off by default (turn on in Settings). Smarter run-together words: weldone becomes well done, sitout becomes sit out. Hundreds of new words.",
+  "notes": "Compact Free unlock tiles: Rewrite and Translate side by side, with the tick on the icon.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 133
+  "build": 136
 }
