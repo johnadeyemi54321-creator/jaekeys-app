@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "New Privacy first slide in the welcome tour. Autocorrect leaves eg, ie, vs and etc alone, and HD, PC, PM and similar short forms stay right.",
+  "notes": "Email addresses in Privacy and legal are now tappable. Tidier Free unlock tiles.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 128
+  "build": 130
 }
