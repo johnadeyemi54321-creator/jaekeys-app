@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Autocorrect now leaves eg, ie, vs, etc and similar short forms alone, and HD, PC, PM and other short forms stay right.",
+  "notes": "New Privacy first slide in the welcome tour. Autocorrect leaves eg, ie, vs and etc alone, and HD, PC, PM and similar short forms stay right.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 127
+  "build": 128
 }
