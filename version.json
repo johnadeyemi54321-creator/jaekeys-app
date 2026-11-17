@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Smoother opening: no grey flash before the hand, the hand moves at 30 frames a second. Smarter typing from 148.",
+  "notes": "Phone alerts for updates and news, smarter typing that learns how you write, and a smoother opening.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -138,11 +138,11 @@
     "aiModel": "gemini-2.5-flash",
     "premium": {
       "on": true,
-      "trialDays": 7,
+      "trialDays": 3,
       "api": "https://jaekeys-premium.netlify.app/api",
       "note": "",
       "wa": ""
     }
   },
-  "build": 149
+  "build": 150
 }
