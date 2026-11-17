@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Opening: calmer timing after the tap, a clear OK sign under the name, softer peach skin with palm creases and finger pads.",
+  "notes": "Smoother opening: no grey flash before the hand, the hand moves at 30 frames a second. Smarter typing from 148.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 146
+  "build": 149
 }
