@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Phone alerts for updates and news, smarter typing that learns how you write, and a smoother opening.",
+  "notes": "Meet Neon Rain, a new live look, a cleaner About list, and a smoother welcome tour you can swipe back and forth.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 150
+  "build": 159
 }
