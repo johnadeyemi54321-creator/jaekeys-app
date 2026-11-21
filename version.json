@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Faster and smoother everywhere: the app and keyboard load lighter and live looks rest when you cannot see them. Plus a cleaner About list.",
+  "notes": "Much smoother scrolling and a lighter, faster app and keyboard, with neater style previews.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 160
+  "build": 161
 }
