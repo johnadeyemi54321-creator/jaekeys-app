@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "A new Liquid Glass look with see-through keys, a much bigger vocabulary, a quicker style tour, and the floating keyboard now tucks away while you browse Settings.",
+  "notes": "The keyboard now tucks away as you scroll Settings, and the Support page greets you with a new message for every currency.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 167
+  "build": 168
 }
