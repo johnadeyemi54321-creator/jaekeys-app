@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "A richer typing tracker with typing styles like Emoji Lord and Night Owl, a daily goal and your top emojis, plus a clearer share message.",
+  "notes": "Word suggestions now follow your cursor anywhere inside a word, and the update notice stays up longer and returns when you pause.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 175
+  "build": 176
 }
