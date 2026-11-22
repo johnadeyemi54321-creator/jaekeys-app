@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "A cleaner look while you type: only smart AI corrections are underlined.",
+  "notes": "A fresh, simpler Style screen with quick filters, and one clear back arrow whenever you open a keyboard panel.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 180
+  "build": 181
 }
