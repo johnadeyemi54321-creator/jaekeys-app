@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Pasted and dictated text now gets the smart spelling check too, plus a quick guide to the light/dark and save buttons when you first open Settings.",
+  "notes": "A richer typing tracker with typing styles like Emoji Lord and Night Owl, a daily goal and your top emojis, plus a clearer share message.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 173
+  "build": 175
 }
