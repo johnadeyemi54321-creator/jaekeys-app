@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "The sentence check now fixes long words too, from everyday ones to big professional words, with a bigger allowance the longer the word is.",
+  "notes": "Pasted and dictated text now gets the smart spelling check too, plus a quick guide to the light/dark and save buttons when you first open Settings.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 172
+  "build": 173
 }
