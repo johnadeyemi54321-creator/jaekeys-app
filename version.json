@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Levels and XP, a weekly typing challenge, new goal badges and a 2,000-word daily goal, all in a cleaner Your typing screen.",
+  "notes": "A cleaner look while you type: only smart AI corrections are underlined.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 177
+  "build": 180
 }
