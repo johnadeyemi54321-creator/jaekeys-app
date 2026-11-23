@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Copied text now always shows up to paste, even mid-sentence, and taps feel cleaner when you type fast.",
+  "notes": "Screenshots show up ready to send again, and a tidier About page.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 189
+  "build": 190
 }
