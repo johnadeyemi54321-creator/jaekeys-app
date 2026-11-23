@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Privacy policy now covers every online feature, and can be read online too.",
+  "notes": "World names now get their capitals: countries, languages, cities, global brands and famous people. Fixes slips like ukraine turning into urine.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 192
+  "build": 206
 }
