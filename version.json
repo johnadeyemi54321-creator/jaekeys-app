@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Dragged buttons keep their exact size and land back smoothly, with no jump.",
+  "notes": "Smarter next-word and phrase prediction (questions, idioms, proverbs, quotes), Undo/Redo lines up with the Keyboard button, and a clearer keyboard popup in Settings.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 216
+  "build": 217
 }
