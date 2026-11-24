@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "World names now get their capitals: countries, languages, cities, global brands and famous people. Fixes slips like ukraine turning into urine.",
+  "notes": "Swipe down to close Settings and pop-ups. Big cards like Themes can be held and dragged too.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 206
+  "build": 207
 }
