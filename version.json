@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Fixed buttons breaking onto two lines while you drag them.",
+  "notes": "Glass backgrounds are now premium dark 3D wallpapers: glass bubbles, gold ribbons, liquid chrome and more, plus your own photo (+). Edge Glow keeps its full colour, size and speed controls.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 225
+  "build": 233
 }
