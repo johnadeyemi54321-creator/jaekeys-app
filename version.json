@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Smarter next-word and phrase prediction (questions, idioms, proverbs, quotes), Undo/Redo lines up with the Keyboard button, and a clearer keyboard popup in Settings.",
+  "notes": "Fixed buttons breaking onto two lines while you drag them.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 217
+  "build": 225
 }
