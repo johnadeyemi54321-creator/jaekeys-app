@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "Clear glass now lives in Settings › Liquid glass. A soft frosted layer keeps what is behind the keyboard blurred-looking on every phone, letters stay readable over light and dark apps, and glass keys have no tap colour unless you add one.",
+  "notes": "Clear glass no longer mixes with your own templates, and you can switch back from the keyboard's style panel. The light/dark glass button only shows with Clear glass. The keyboard is lighter to draw, to stop blank or frozen moments.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 240
+  "build": 241
 }
