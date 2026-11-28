@@ -1,6 +1,6 @@
 {
   "version": "3.5",
-  "notes": "New: Clear Glass. A keyboard with no background: every key is its own piece of glass floating over the app you are in, with blur behind it on Android 12 and newer. Find it in Templates or Settings › Clear glass.",
+  "notes": "Clear glass now lives in Settings › Liquid glass. A soft frosted layer keeps what is behind the keyboard blurred-looking on every phone, letters stay readable over light and dark apps, and glass keys have no tap colour unless you add one.",
   "apk": "https://github.com/johnadeyemi54321-creator/jaekeys-app/releases/latest/download/JaeKeys.apk",
   "force": false,
   "links": {
@@ -144,5 +144,5 @@
       "wa": ""
     }
   },
-  "build": 239
+  "build": 240
 }
